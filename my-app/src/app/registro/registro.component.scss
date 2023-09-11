@@ -1,0 +1,20 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+mat-card {
+    max-width: 400px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.9); 
+}
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #333, #000); 
+}
